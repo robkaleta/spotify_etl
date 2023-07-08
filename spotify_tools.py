@@ -10,6 +10,8 @@ spotify = spotipy.Spotify(client_credentials_manager=spotipy.oauth2.SpotifyClien
             client_secret = os.getenv('CLIENT_SECRET')
                     ))
 
+
+
 def get_artists_from_playlist(playlist_URI):
     ''' 
     :param playlist_URI: playlist URI
