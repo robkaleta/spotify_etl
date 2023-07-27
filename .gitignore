@@ -162,3 +162,7 @@ cython_debug/
 # file extensions
 *.csv
 *.parquet
+
+/notebooks
+.vscode/
+/tmp

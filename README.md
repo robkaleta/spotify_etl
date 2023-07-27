@@ -9,6 +9,8 @@ Based on tutorial by (datadrivendecisions)[https://www.youtube.com/watch?v=iYpoK
 * Terraform
 * Spotipy (optional)
 
-### Pip
+### Terraform
 
-https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd?si=fcbec5fab5db4c6e
+Terraform (Infrastructure as Code) will build the entire infrastructure.
+
+
